@@ -11,8 +11,7 @@ Connect:
 
 Email: [ashwinmoffl14@gmail.com]
 GitHub: [ASHWIN-Jsdev]
-LinkedIn: [www.linkedin.com/in/
-ashwininfo]
+LinkedIn: [www.linkedin.com/in/ashwininfo]
 Let's code together!
 
 <!---
