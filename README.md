@@ -10,7 +10,7 @@ Explore, contribute, suggest projects!
 Connect:
 
 Email: [ashwinmoffl14@gmail.com]
-GitHub: [ASHWIN-Jsdev]
+GitHub: [ASHWIN]
 LinkedIn: [www.linkedin.com/in/ashwininfo]
 Let's code together!
 
